@@ -8,7 +8,7 @@ django-session-timeout==0.1.0
 django-stdimage==6.0.1
 django-taggit==3.0.0
 django-widget-tweaks==1.4.12
-djangorestframework==3.14.0
+djangorestframework==3.15.2
 Pillow==9.2.0
 python-decouple==3.6
 pytz==2022.5
